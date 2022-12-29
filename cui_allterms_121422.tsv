@@ -1,0 +1,525 @@
+cui	cui_dx	dx_code	dx_desc	db	dxcat_hpobased
+C0013481	Ebstein Anomaly	Q22.5	Ebstein's anomaly	ICD10	ebsteins_anomaly
+C0013481	Ebstein Anomaly	HP:0010316	Ebstein's anomaly	HPO	ebsteins_anomaly
+C0013481	Ebstein Anomaly	204357006	Ebstein's anomaly	SNOMEDCT_US	ebsteins_anomaly
+C4023275	Abnormal direction of ventricular apex	HP:0011600	Abnormal direction of ventricular apex	HPO	unclassified
+C0344629	Absent left sided atrioventricular connection	HP:0011547	Absent left sided atrioventricular connection	HPO	unclassified
+C0344629	Absent left sided atrioventricular connection	253290005	Absent left sided atrioventricular connection	SNOMEDCT_US	unclassified
+C4022958	Coarctation of the descending aortic arch	HP:0012305	Coarctation of the descending aortic arch	HPO	unclassified
+C0345054	Aortico-Left Ventricular Tunnel	26201005	Aortic left ventricular tunnel	SNOMEDCT_US	unclassified
+C0345054	Aortico-Left Ventricular Tunnel	HP:0031932	Left ventricle to aorta tunnel	HPO	unclassified
+C4023299	Double inlet to single ventricle with two atrioventricular valves	HP:0011559	Double inlet to single ventricle with two atrioventricular valves	HPO	single_ventricle_pathology
+C0345055	Aortico-Right Ventricular Tunnel	253650001	Aorta to right ventricle tunnel	SNOMEDCT_US	unclassified
+C0345055	Aortico-Right Ventricular Tunnel	HP:0031933	Right ventricle to aorta tunnel	HPO	unclassified
+C4023292	Imperforate tricuspid valve	HP:0011575	Imperforate tricuspid valve	HPO	unclassified
+C4023273	Midline direction of ventricular apex	HP:0011602	Midline direction of ventricular apex	HPO	unclassified
+C0344722	Abnormality of atrial septum	253363004	Abnormality of atrial septum	SNOMEDCT_US	unclassified
+C0344722	Abnormality of atrial septum	HP:0011994	Abnormality of the atrial septum	HPO	unclassified
+C4023297	Straddling atrioventricular valve	HP:0011562	Straddling atrioventricular valve	HPO	unclassified
+C4023313	Abnormal spatial orientation of the cardiac segments	HP:0011534	Abnormal spatial orientation of the cardiac segments	HPO	unclassified
+C0345001	unicuspid aortic valve	HP:0012561	Unicuspid aortic valve	HPO	unclassified
+C0345001	unicuspid aortic valve	253610004	Unicuspid aortic valve	SNOMEDCT_US	unclassified
+C0345088	Kinking of descending aorta	70602002	Kinking of descending aorta	SNOMEDCT_US	unclassified
+C0345088	Kinking of descending aorta	HP:0005295	Pseudocoarctation of the aorta	HPO	unclassified
+C0344745	Absent tricuspid leaflet	253381001	Absent tricuspid leaflet	SNOMEDCT_US	unclassified
+C0344745	Absent tricuspid leaflet	HP:0030719	Unguarded tricuspid valve orifice	HPO	unclassified
+C0039685	Tetralogy of Fallot	Q21.3	Tetralogy of Fallot	ICD10	tetralogy_of_fallot
+C0039685	Tetralogy of Fallot	HP:0001636	Tetralogy of Fallot	HPO	tetralogy_of_fallot
+C0039685	Tetralogy of Fallot	86299006	Tetralogy of Fallot	SNOMEDCT_US	tetralogy_of_fallot
+C0345065	Cervical aortic arch	HP:0011588	Cervical aortic arch	HPO	unclassified
+C0345065	Cervical aortic arch	253657003	Cervical aortic arch	SNOMEDCT_US	unclassified
+C4023281	Left aortic arch with cervical origin of the right subclavian artery	HP:0011591	Left aortic arch with cervical origin of the right subclavian artery	HPO	unclassified
+C4476782	Anomalous insertion of papillary muscle directly into anterior mitral leaflet	HP:0025446	Anomalous insertion of papillary muscle directly into anterior mitral leaflet	HPO	unclassified
+C1853238	Conotruncal defect	HP:0001710	Conotruncal defect	HPO	unclassified
+C0344887	Right ventricular abnormality	HP:0001707	Right ventricular abnormality	HPO	unclassified
+C0344887	Right ventricular abnormality	253516002	Right ventricular abnormality	SNOMEDCT_US	unclassified
+C0014116	Endocardial Cushion Defects	HP:0006695	Endocardial cushion defect	HPO	unclassified
+C0014116	Endocardial Cushion Defects	15459006	Endocardial cushion defect	SNOMEDCT_US	unclassified
+C1389016	ATRIOVENTRICULAR CANAL DEFECT	HP:0006695	Atrioventricular canal defect	HPO	common_av_junction
+C4732742	Hole in center of heart	HP:0006695	Hole in center of heart	HPO	unclassified
+C1302264	Tetralogy of Fallot with absent pulmonary valve	HP:0011659	Tetralogy of Fallot with absent pulmonary valve	HPO	tetralogy_of_fallot
+C1302264	Tetralogy of Fallot with absent pulmonary valve	399228007	Tetralogy of Fallot with absent pulmonary valve	SNOMEDCT_US	tetralogy_of_fallot
+C4531034	Abnormal aortic valve cusp morphology	HP:0031567	Abnormal aortic valve cusp morphology	HPO	unclassified
+C4023240	Bilateral superior vena cava with bridging vein	HP:0011667	Bilateral superior vena cava with bridging vein	HPO	lsvc
+C4023288	Short chordae tendineae of the mitral valve	HP:0011580	Short chordae tendineae of the mitral valve	HPO	unclassified
+C0034072	Cor pulmonale	HP:0001648	Cor pulmonale	HPO	unclassified
+C0034072	Cor pulmonale	83291003	Cor pulmonale	SNOMEDCT_US	unclassified
+C0034072	Cor pulmonale	I27.9	Pulmonary heart disease, unspecified	ICD10	unclassified
+C0265857	Uhl anomaly	HP:0011724	Uhl's anomaly	HPO	unclassified
+C0265857	Uhl anomaly	2829000	Uhl's anomaly	SNOMEDCT_US	unclassified
+C0344906	Left ventricular hypoplasia	HP:0004383	Left ventricular hypoplasia	HPO	unclassified
+C0344906	Left ventricular hypoplasia	253536001	Left ventricular hypoplasia	SNOMEDCT_US	unclassified
+C0152101	Hypoplastic Left Heart Syndrome	Q23.4	Hypoplastic left heart syndrome	ICD10	hlhs
+C0152101	Hypoplastic Left Heart Syndrome	62067003	Hypoplastic left heart syndrome	SNOMEDCT_US	hlhs
+C0152101	Hypoplastic Left Heart Syndrome	HP:0004383	Hypoplastic left heart	HPO	hlhs
+C1866207	Dysplastic aortic valve	HP:0005176	Dysplastic aortic valve	HPO	unclassified
+C0265910	Congenital hypoplasia of pulmonary artery	54682008	Congenital hypoplasia of pulmonary artery	SNOMEDCT_US	unclassified
+C0265910	Congenital hypoplasia of pulmonary artery	HP:0004971	Pulmonary artery hypoplasia	HPO	unclassified
+C2239253	Sinus of Valsalva aneurysm	HP:0011645	Sinus of Valsalva aneurysm	HPO	unclassified
+C2239253	Sinus of Valsalva aneurysm	54160000	Sinus of Valsalva aneurysm	SNOMEDCT_US	unclassified
+C2062868	Aortic sinus aneurysm	HP:0011645	Aortic sinus aneurysm	HPO	unclassified
+C4476551	Dilatation of the sinus of Valsalva	HP:0011645	Dilatation of the sinus of Valsalva	HPO	unclassified
+C1960469	Left ventricular noncompaction	HP:0030682	Left ventricular noncompaction	HPO	unclassified
+C4023306	Abnormal connection of the cardiac segments	HP:0011545	Abnormal connection of the cardiac segments	HPO	unclassified
+C4024995	Abnormal atrioventricular valve morphology	HP:0006705	Abnormal atrioventricular valve morphology	HPO	unclassified
+C4023250	Juxtaductal coarctation of the aorta	HP:0011646	Juxtaductal coarctation of the aorta	HPO	unclassified
+C0018816	Heart Septal Defects	253273004	Heart septal defects	SNOMEDCT_US	unclassified
+C0018816	Heart Septal Defects	HP:0001671	Heart septal defect	HPO	unclassified
+C0018816	Heart Septal Defects	59494005	Congenital septal defect of heart	SNOMEDCT_US	unclassified
+C0018816	Heart Septal Defects	396351009	Congenital septal defect	SNOMEDCT_US	unclassified
+C0018816	Heart Septal Defects	Q21	Congenital malformations of cardiac septa	ICD10	unclassified
+C0018816	Heart Septal Defects	Q21.9	Congenital malformation of cardiac septum, unspecified	ICD10	unclassified
+C3531771	Dextrotransposition of the great arteries	285251000119101	Dextrotransposition of the great arteries	SNOMEDCT_US	transposition_of_the_great_arteries
+C3531771	Dextrotransposition of the great arteries	HP:0031348	Dextrotransposition of the great arteries	HPO	transposition_of_the_great_arteries
+C1956413	Taussig-Bing Anomaly	HP:0011658	Taussig-Bing anomaly	HPO	dorv
+C1956413	Taussig-Bing Anomaly	7484005	Taussig-Bing defect	SNOMEDCT_US	dorv
+C1848978	Membranous subvalvular aortic stenosis	HP:0005174	Membranous subvalvular aortic stenosis	HPO	unclassified
+C0031046	Pericarditis	HP:0001701	Pericarditis	HPO	unclassified
+C0031046	Pericarditis	3238004	Pericarditis	SNOMEDCT_US	unclassified
+C1275809	L - transposition of the great vessels	399046008	L - transposition of the great vessels	SNOMEDCT_US	transposition_of_the_great_arteries
+C1275809	L - transposition of the great vessels	HP:0031349	Levotransposition of the great arteries	HPO	transposition_of_the_great_arteries
+C4531038	Balanced double aortic arch	HP:0031562	Balanced double aortic arch	HPO	unclassified
+C3178806	Right Atrial Isomerism	HP:0011536	Right atrial isomerism	HPO	isomerism
+C0344612	Abnormal atrioventricular connection	HP:0011546	Abnormal atrioventricular connection	HPO	unclassified
+C0344612	Abnormal atrioventricular connection	253274005	Abnormal atrioventricular connection	SNOMEDCT_US	unclassified
+C0344617	Ambiguous atrioventricular connection	HP:0011552	Ambiguous atrioventricular connection	HPO	unclassified
+C0344617	Ambiguous atrioventricular connection	253278008	Ambiguous atrioventricular connection	SNOMEDCT_US	unclassified
+C4531287	Abnormal morphology of right ventricular trabeculae	HP:0031193	Abnormal morphology of right ventricular trabeculae	HPO	unclassified
+C4023255	Partial left sided absence of pericardium	HP:0011634	Partial left sided absence of pericardium	HPO	unclassified
+C4476811	Descending aorta hypoplasia	HP:0025495	Descending aorta hypoplasia	HPO	unclassified
+C0478012	Congenital malformation of the great arteries	HP:0011603	Congenital malformation of the great arteries	HPO	unclassified
+C0478012	Congenital malformation of the great arteries	Q25	Congenital malformations of great arteries	ICD10	unclassified
+C0478012	Congenital malformation of the great arteries	Q25.9	Congenital malformation of great arteries, unspecified	ICD10	unclassified
+C0036400	Scimitar Syndrome	HP:0011626	Scimitar syndrome	HPO	papvr
+C0036400	Scimitar Syndrome	39905002	Scimitar syndrome	SNOMEDCT_US	papvr
+C4551905	Pulmonary Venous Return Anomaly	HP:0011626	Pulmonary venolobar syndrome	HPO	unclassified
+C4551905	Pulmonary Venous Return Anomaly	HP:0010772	Anomalous pulmonary venous return	HPO	unclassified
+C4025753	Abnormal tricuspid valve morphology	HP:0001702	Abnormal tricuspid valve morphology	HPO	unclassified
+C3163894	Diverticulum of coronary sinus	447661004	Diverticulum of coronary sinus	SNOMEDCT_US	unclassified
+C3163894	Diverticulum of coronary sinus	HP:0011644	Coronary sinus diverticulum	HPO	unclassified
+C4023234	Tetralogy of Fallot with pulmonary atresia and major aortopulmonary collateral arteries	HP:0011678	Tetralogy of Fallot with pulmonary atresia and major aortopulmonary collateral arteries	HPO	tetralogy_of_fallot
+C0345030	Peripheral pulmonary artery stenosis	HP:0004969	Peripheral pulmonary artery stenosis	HPO	unclassified
+C0345030	Peripheral pulmonary artery stenosis	253631001	Peripheral pulmonary artery stenosis	SNOMEDCT_US	unclassified
+C4476935	Long segment coarctation of the aorta	HP:0031054	Long segment coarctation of the aorta	HPO	unclassified
+C4021128	Mixed total anomalous pulmonary venous connection	HP:0011722	Mixed total anomalous pulmonary venous connection	HPO	tapvr
+C4025752	Abnormal cardiac ventricle morphology	HP:0001713	Abnormal cardiac ventricle morphology	HPO	unclassified
+C4476993	Cor triatrium sinister	HP:0031134	Cor triatrium sinister	HPO	unclassified
+C0265843	Congenital atresia of aortic valve	51442005	Congenital atresia of aortic valve	SNOMEDCT_US	unclassified
+C0265843	Congenital atresia of aortic valve	HP:0010883	Aortic valve atresia	HPO	unclassified
+C4021137	Type II truncus arteriosus	HP:0011608	Type II truncus arteriosus	HPO	truncus_arteriosus
+C4023261	Congenital defect of the pericardium	HP:0011628	Congenital defect of the pericardium	HPO	unclassified
+C4023238	Left superior vena cava draining directly to the left atrium	HP:0011669	Left superior vena cava draining directly to the left atrium	HPO	lsvc
+C0152424	Common ventricle	HP:0001750	Common ventricle	HPO	single_ventricle_pathology
+C0152424	Common ventricle	45503006	Common ventricle	SNOMEDCT_US	single_ventricle_pathology
+C4023274	Rightward direction of ventricular apex	HP:0011601	Rightward direction of ventricular apex	HPO	unclassified
+C4476826	Abnormal morphology of the chordae tendinae of the mitral valve	HP:0025523	Abnormal morphology of the chordae tendinae of the mitral valve	HPO	unclassified
+C0344881	Tetralogy of Fallot with pulmonary stenosis	HP:0011679	Tetralogy of Fallot with pulmonary stenosis	HPO	tetralogy_of_fallot
+C0344881	Tetralogy of Fallot with pulmonary stenosis	253512000	Tetralogy of Fallot with pulmonary stenosis	SNOMEDCT_US	tetralogy_of_fallot
+C0014117	Endocardial Fibroelastosis	I42.4	Endocardial fibroelastosis	ICD10	unclassified
+C0014117	Endocardial Fibroelastosis	HP:0001706	Endocardial fibroelastosis	HPO	unclassified
+C0014117	Endocardial Fibroelastosis	65457005	Endocardial fibroelastosis	SNOMEDCT_US	unclassified
+C0011813	Dextrocardia	Q24.0	Dextrocardia	ICD10	unclassified
+C0011813	Dextrocardia	HP:0001651	Dextrocardia	HPO	unclassified
+C0011813	Dextrocardia	27637000	Dextrocardia	SNOMEDCT_US	unclassified
+C0265905	Agenesis of pulmonary artery	86252004	Agenesis of pulmonary artery	SNOMEDCT_US	unclassified
+C0265905	Agenesis of pulmonary artery	HP:0004960	Absent pulmonary artery	HPO	unclassified
+C4703564	Aortopulmonary collateral arteries	HP:0031834	Aortopulmonary collateral arteries	HPO	unclassified
+C0031048	Pericarditis, Constrictive	HP:0002563	Constrictive pericarditis	HPO	unclassified
+C0031048	Pericarditis, Constrictive	85598007	Constrictive pericarditis	SNOMEDCT_US	unclassified
+C0003492	Aortic coarctation	HP:0001680	Aortic coarctation	HPO	unclassified
+C0003492	Aortic coarctation	7305005	Aortic coarctation	SNOMEDCT_US	unclassified
+C0003492	Aortic coarctation	Q25.1	Coarctation of aorta	ICD10	unclassified
+C4023219	Congenital malformation of the right heart	HP:0011723	Congenital malformation of the right heart	HPO	unclassified
+C0344680	Coronary sinus abnormality	253323000	Coronary sinus abnormality	SNOMEDCT_US	unclassified
+C0344680	Coronary sinus abnormality	HP:0011642	Abnormality of the coronary sinus	HPO	unclassified
+C0013069	Double Outlet Right Ventricle	Q20.1	Double outlet right ventricle	ICD10	dorv
+C0013069	Double Outlet Right Ventricle	HP:0001719	Double outlet right ventricle	HPO	dorv
+C0013069	Double Outlet Right Ventricle	7484005	Double outlet right ventricle	SNOMEDCT_US	dorv
+C4551903	Total anomalous pulmonary venous return	HP:0005160	Total anomalous pulmonary venous return	HPO	tapvr
+C4551903	Total anomalous pulmonary venous return	111323005	Total anomalous pulmonary venous return	SNOMEDCT_US	tapvr
+C4551903	Total anomalous pulmonary venous return	Q26.2	Total anomalous pulmonary venous connection	ICD10	tapvr
+C4476886	Abnormal vena cava morphology	HP:0005345	Abnormal vena cava morphology	HPO	unclassified
+C4025210	Abnormality of the vena cava	HP:0005345	Abnormality of the vena cava	HPO	unclassified
+C0431501	Bilateral arterial duct	461093009	Bilateral arterial duct	SNOMEDCT_US	isolated_pda
+C0431501	Bilateral arterial duct	HP:0011650	Bilateral ductus arteriosus	HPO	isolated_pda
+C4023264	Apical muscular ventricular septal defect	HP:0011624	Apical muscular ventricular septal defect	HPO	vsd_base
+C4025695	Right aortic arch with mirror image branching	HP:0002627	Right aortic arch with mirror image branching	HPO	unclassified
+C5676815	Distal aortic arch hypoplasia	HP:0034229	Distal aortic arch hypoplasia	HPO	unclassified
+C4023279	Right aortic arch with retroesophageal diverticulum of Kommerell	HP:0011594	Right aortic arch with retroesophageal diverticulum of Kommerell	HPO	unclassified
+C1735886	Bland White Garland Syndrome	HP:0011638	Bland-Garland-White syndrome	HPO	alcapa
+C1735886	Bland White Garland Syndrome	450301003	Anomalous origin of left coronary artery from pulmonary artery	SNOMEDCT_US	alcapa
+C4703539	Abnormal ascending aorta morphology	HP:0031784	Abnormal ascending aorta morphology	HPO	unclassified
+C0265837	Congenital hypoplasia of tricuspid valve	43176009	Congenital hypoplasia of tricuspid valve	SNOMEDCT_US	unclassified
+C0265837	Congenital hypoplasia of tricuspid valve	HP:0011573	Tricuspid valve hypoplasia	HPO	unclassified
+C4732763	Abnormal descending aorta morphology	HP:0031934	Abnormal descending aorta morphology	HPO	unclassified
+C4023272	Congenitally corrected transposition of the great arteries with ventricular septal defect	HP:0011605	Congenitally corrected transposition of the great arteries with ventricular septal defect	HPO	unclassified
+C4023302	Double inlet atrioventricular connection	HP:0011554	Double inlet atrioventricular connection	HPO	unclassified
+C0345002	Quadricuspid Aortic Valve	HP:0031655	Quadricuspid aortic valve	HPO	unclassified
+C0345002	Quadricuspid Aortic Valve	253611000	Quadricuspid aortic valve	SNOMEDCT_US	unclassified
+C4025359	Abnormal anatomic location of the heart	HP:0004307	Abnormal anatomic location of the heart	HPO	unclassified
+C0344760	Congenital atresia of mitral valve	23063005	Congenital atresia of mitral valve	SNOMEDCT_US	unclassified
+C0344760	Congenital atresia of mitral valve	HP:0011560	Mitral atresia	HPO	unclassified
+C4021136	Type III truncus arteriosus	HP:0011609	Type III truncus arteriosus	HPO	truncus_arteriosus
+C0344724	Ostium secundum atrial septal defect	HP:0001684	Ostium secundum atrial septal defect	HPO	asd_base
+C0344724	Ostium secundum atrial septal defect	204315000	Ostium secundum type atrial septal defect	SNOMEDCT_US	asd_base
+C5676814	Proximal aortic arch hypoplasia	HP:0034228	Proximal aortic arch hypoplasia	HPO	unclassified
+C0344622	Double inlet left ventricle	HP:0011555	Double inlet left ventricle	HPO	dilv
+C0344622	Double inlet left ventricle	253283000	Double inlet left ventricle	SNOMEDCT_US	dilv
+C4021130	Cardiac total anomalous pulmonary venous connection	HP:0011720	Cardiac total anomalous pulmonary venous connection	HPO	tapvr
+C4023284	Thoracic ectopia cordis	HP:0011585	Thoracic ectopia cordis	HPO	unclassified
+C0035615	Right aortic arch (disorder)	111321007	Right aortic arch (disorder)	SNOMEDCT_US	unclassified
+C0035615	Right aortic arch (disorder)	HP:0012020	Right aortic arch	HPO	unclassified
+C0035615	Right aortic arch (disorder)	244229003	Right aortic arch	SNOMEDCT_US	unclassified
+C0003516	Aortopulmonary Septal Defect	Q21.4	Aortopulmonary septal defect	ICD10	unclassified
+C0003516	Aortopulmonary Septal Defect	17024001	Aortopulmonary septal defect	SNOMEDCT_US	unclassified
+C0003516	Aortopulmonary Septal Defect	HP:0011604	Aortopulmonary window	HPO	unclassified
+C0344735	Partial atrioventricular canal	253373002	1 ASD - Primum atrial septal defect	SNOMEDCT_US	common_av_junction
+C0344735	Partial atrioventricular canal	HP:0010445	Primum atrial septal defect	HPO	common_av_junction
+C0031192	Persistent Ostium Primum	17718000	Persistent ostium primum	SNOMEDCT_US	unclassified
+C0031192	Persistent Ostium Primum	HP:0010445	Ostium primum atrial septal defect	HPO	unclassified
+C0240709	Pericardial constriction	HP:0005132	Pericardial constriction	HPO	unclassified
+C0265809	Double outlet left ventricle	Q20.2	Double outlet left ventricle	ICD10	unclassified
+C0265809	Double outlet left ventricle	HP:0011581	Double outlet left ventricle	HPO	unclassified
+C0265809	Double outlet left ventricle	7368005	Double outlet left ventricle	SNOMEDCT_US	unclassified
+C0013274	Patent ductus arteriosus	Q25.0	Patent ductus arteriosus	ICD10	isolated_pda
+C0013274	Patent ductus arteriosus	HP:0001643	Patent ductus arteriosus	HPO	isolated_pda
+C0013274	Patent ductus arteriosus	83330001	Patent ductus arteriosus	SNOMEDCT_US	isolated_pda
+C0023569	Levocardia	205769006	Levocardia	SNOMEDCT_US	unclassified
+C0023569	Levocardia	Q24.1	Laevocardia	ICD10	unclassified
+C0023569	Levocardia	HP:0031592	Situs inversus with levocardia	HPO	unclassified
+C4023257	Partial right sided absence of pericardium	HP:0011632	Partial right sided absence of pericardium	HPO	unclassified
+C0221215	Common atrioventricular canal	HP:0001674	Common atrioventricular canal	HPO	common_av_junction
+C0221215	Common atrioventricular canal	360481003	Common atrioventricular canal	SNOMEDCT_US	common_av_junction
+C5397605	Abnormal bulbus cordis morphology	HP:0032580	Abnormal bulbus cordis morphology	HPO	unclassified
+C1834934	Type I truncus arteriosus	HP:0004384	Type I truncus arteriosus	HPO	truncus_arteriosus
+C4531096	Abnormal mitral valve annulus morphology	HP:0031478	Abnormal mitral valve annulus morphology	HPO	unclassified
+C4023235	Tetralogy of Fallot with atrioventricular canal defect	HP:0011677	Tetralogy of Fallot with atrioventricular canal defect	HPO	tetralogy_of_fallot
+C0265878	Preductal coarctation of aorta	13867009	Preductal coarctation of aorta	SNOMEDCT_US	unclassified
+C0265878	Preductal coarctation of aorta	HP:0005151	Preductal coarctation of the aorta	HPO	unclassified
+C4023310	Criss-cross atrioventricular valves	HP:0011541	Criss-cross atrioventricular valves	HPO	unclassified
+C3280940	Unbalanced atrioventricular canal defect	HP:0011579	Unbalanced atrioventricular canal defect	HPO	common_av_junction
+C4476980	Bicuspid aortic valve with right-noncoronary cusp fusion	HP:0031120	Bicuspid aortic valve with right-noncoronary cusp fusion	HPO	unclassified
+C4476982	Two-Raphe Bicuspid Aortic Valve	HP:0031122	Two-raphe bicuspid aortic valve	HPO	unclassified
+C4476979	Bicuspid aortic valve with right-left cusp fusion	HP:0031119	Bicuspid aortic valve with right-left cusp fusion	HPO	unclassified
+C4023242	Double outlet right ventricle with subpulmonary ventricular septal defect and pulmonary stenosis	HP:0011657	Double outlet right ventricle with subpulmonary ventricular septal defect and pulmonary stenosis	HPO	dorv
+C5139121	Aortic laminar medial collapse	HP:0032087	Aortic laminar medial collapse	HPO	unclassified
+C0158634	Partial anomalous pulmonary venous connection	Q26.3	Partial anomalous pulmonary venous connection	ICD10	papvr
+C0158634	Partial anomalous pulmonary venous connection	HP:0010773	Partial anomalous pulmonary venous connection	HPO	papvr
+C0158634	Partial anomalous pulmonary venous connection	68237008	Partial anomalous pulmonary venous connection	SNOMEDCT_US	papvr
+C0152419	Interrupted aortic arch	HP:0011611	Interrupted aortic arch	HPO	interrupted_aortic_arch
+C0152419	Interrupted aortic arch	218728005	Interrupted aortic arch	SNOMEDCT_US	interrupted_aortic_arch
+C3164271	Obstruction of aortic arch	447817009	Obstruction of aortic arch	SNOMEDCT_US	unclassified
+C3164271	Obstruction of aortic arch	HP:0011611	Aortic arch obstruction	HPO	unclassified
+C4476781	Morphological abnormality of the papillary muscles	HP:0025445	Morphological abnormality of the papillary muscles	HPO	unclassified
+C4023236	Tetralogy of Fallot with absent subarterial conus	HP:0011676	Tetralogy of Fallot with absent subarterial conus	HPO	tetralogy_of_fallot
+C4023286	Cervical ectopia cordis	HP:0011583	Cervical ectopia cordis	HPO	unclassified
+C0265881	Congenital hypoplasia of aortic arch	60787001	Congenital hypoplasia of aortic arch	SNOMEDCT_US	unclassified
+C0265881	Congenital hypoplasia of aortic arch	HP:0012304	Underdeveloped aortic arch	HPO	unclassified
+C0242855	Congenital atresia of pulmonary valve	204342004	Congenital atresia of pulmonary valve	SNOMEDCT_US	pulmonary_atresia
+C0242855	Congenital atresia of pulmonary valve	Q22.0	Pulmonary valve atresia	ICD10	pulmonary_atresia
+C0242855	Congenital atresia of pulmonary valve	HP:0010882	Pulmonary valve atresia	HPO	pulmonary_atresia
+C0242855	Congenital atresia of pulmonary valve	719955006	Pulmonary valve atresia	SNOMEDCT_US	pulmonary_atresia
+C4531178	Calcified amorphous tumor of the heart	HP:0031351	Calcified amorphous tumor of the heart	HPO	unclassified
+C4703429	Enlarged Eustachian valve	HP:0031591	Enlarged Eustachian valve	HPO	unclassified
+C4703430	Giant Eustachian valve	HP:0031591	Giant Eustachian valve	HPO	unclassified
+C0265886	Overriding aorta	HP:0002623	Overriding aorta	HPO	unclassified
+C0265886	Overriding aorta	63934006	Overriding aorta	SNOMEDCT_US	unclassified
+C0011818	Dextraposition of aorta	HP:0002623	Dextroposition of aorta	HPO	unclassified
+C0265885	Kommerell's diverticulum	74561007	Kommerell's diverticulum	SNOMEDCT_US	unclassified
+C0265885	Kommerell's diverticulum	HP:0011593	Kommerell diverticulum	HPO	unclassified
+C4476981	Bicuspid aortic valve with left-noncoronary cusp fusion	HP:0031121	Bicuspid aortic valve with left-noncoronary cusp fusion	HPO	unclassified
+C0026269	Mitral Valve Stenosis	HP:0001718	Mitral valve stenosis	HPO	valvar_stenosis
+C0026269	Mitral Valve Stenosis	79619009	Mitral valve stenosis	SNOMEDCT_US	valvar_stenosis
+C0265931	Persistent Left Superior Vena Cava	Q26.1	Persistent left superior vena cava	ICD10	lsvc
+C0265931	Persistent Left Superior Vena Cava	HP:0005301	Persistent left superior vena cava	HPO	lsvc
+C0265931	Persistent Left Superior Vena Cava	77978002	Persistent left superior vena cava	SNOMEDCT_US	lsvc
+C4476883	Abnormal pulmonary vein morphology	HP:0030968	Abnormal pulmonary vein morphology	HPO	unclassified
+C4023232	Infra-aortic superior vena cava	HP:0011685	Infra-aortic superior vena cava	HPO	unclassified
+C4023243	Double outlet right ventricle with subaortic ventricular septal defect without pulmonary stenosis	HP:0011656	Double outlet right ventricle with subaortic ventricular septal defect without pulmonary stenosis	HPO	dorv
+C4023243	Double outlet right ventricle with subaortic ventricular septal defect without pulmonary stenosis	840507004	Double outlet right ventricle with subaortic ventricular septal defect without pulmonary stenosis	SNOMEDCT_US	dorv
+C4023239	Bilateral superior vena cava with no bridging vein	HP:0011668	Bilateral superior vena cava with no bridging vein	HPO	lsvc
+C4476784	Anterior displacement of the papillary muscles	HP:0025448	Anterior displacement of the papillary muscles	HPO	unclassified
+C4476825	Elongated chordae tendinae of the mitral valve	HP:0025522	Elongated chordae tendinae of the mitral valve	HPO	unclassified
+C4531222	Hypoplastic right atrium	HP:0031294	Hypoplastic right atrium	HPO	unclassified
+C2063331	Coronary sinus atrial septal defect	HP:0011643	Coronary sinus atrial septal defect	HPO	unclassified
+C4023285	Thoracocervical ectopia cordis	HP:0011584	Thoracocervical ectopia cordis	HPO	unclassified
+C1860165	Pulmonary valve defects	HP:0005148	Pulmonary valve defects	HPO	unclassified
+C4023303	Right sided atrium to left ventricle and absent left sided atrioventricular connection	HP:0011551	Right sided atrium to left ventricle and absent left sided atrioventricular connection	HPO	unclassified
+C4476915	Swiss cheese atrial septal defect	HP:0031017	Swiss cheese atrial septal defect	HPO	asd_base
+C0344615	Discordant atrioventricular connection	Q20.5	Discordant atrioventricular connection	ICD10	unclassified
+C0344615	Discordant atrioventricular connection	HP:0011553	Discordant atrioventricular connection	HPO	unclassified
+C0344615	Discordant atrioventricular connection	253277003	Discordant atrioventricular connection	SNOMEDCT_US	unclassified
+C3164429	Indeterminate atrial arrangement	448681000	Indeterminate atrial arrangement	SNOMEDCT_US	unclassified
+C3164429	Indeterminate atrial arrangement	HP:0011539	Atrial situs ambiguous	HPO	unclassified
+C0344659	Bilateral Superior Vena Cava	HP:0033379	Bilateral superior vena cava	HPO	lsvc
+C0344659	Bilateral Superior Vena Cava	253311006	Bilateral superior vena cava	SNOMEDCT_US	lsvc
+C4476936	Abnormal branching pattern of left aortic arch	HP:0031055	Abnormal branching pattern of left aortic arch	HPO	unclassified
+C0265908	Congenital atresia of pulmonary artery	10930001	Congenital atresia of pulmonary artery	SNOMEDCT_US	unclassified
+C0265908	Congenital atresia of pulmonary artery	HP:0004935	Pulmonary atresia	HPO	unclassified
+C0265908	Congenital atresia of pulmonary artery	Q25.5	Atresia of pulmonary artery	ICD10	unclassified
+C0149630	Bicuspid aortic valve	HP:0001647	Bicuspid aortic valve	HPO	unclassified
+C0149630	Bicuspid aortic valve	72352009	Bicuspid aortic valve	SNOMEDCT_US	unclassified
+C0175707	Asplenia Syndrome	253336000	Ivemark syndrome	SNOMEDCT_US	isomerism
+C0175707	Asplenia Syndrome	HP:0031855	Right isomerism	HPO	isomerism
+C4021143	Mitral valve arcade	HP:0011564	Mitral valve arcade	HPO	unclassified
+C3164374	Abnormality of pulmonary valve	448643005	Abnormality of pulmonary valve	SNOMEDCT_US	unclassified
+C3164374	Abnormality of pulmonary valve	HP:0001641	Abnormality of the pulmonary valve	HPO	unclassified
+C0344916	Left ventricular outflow tract abnormality	253545000	Left ventricular outflow tract abnormality	SNOMEDCT_US	unclassified
+C0344916	Left ventricular outflow tract abnormality	HP:0011103	Abnormality of the left ventricular outflow tract	HPO	unclassified
+C4280792	Anomalous muscle bundle of the right ventricle	HP:0030740	Anomalous muscle bundle of the right ventricle	HPO	unclassified
+C0344656	Absent right superior vena cava	HP:0011666	Absent right superior vena cava	HPO	lsvc
+C0344656	Absent right superior vena cava	253308005	Absent right superior vena cava	SNOMEDCT_US	lsvc
+C1970625	Hypoplastic left atrium	HP:0005156	Hypoplastic left atrium	HPO	unclassified
+C0345092	Interrupted aortic arch distal to left subclavian artery	253681005	Interrupted aortic arch distal to left subclavian artery	SNOMEDCT_US	interrupted_aortic_arch
+C0345092	Interrupted aortic arch distal to left subclavian artery	HP:0011612	Interrupted aortic arch type A	HPO	interrupted_aortic_arch
+C4023300	Double inlet to single ventricle with common atrioventricular orifice	HP:0011558	Double inlet to single ventricle with common atrioventricular orifice	HPO	single_ventricle_pathology
+C4023263	Multiple muscular ventricular septal defects	HP:0011625	Multiple muscular ventricular septal defects	HPO	vsd_base
+C0345140	Totally absent pericardium	253732001	Totally absent pericardium	SNOMEDCT_US	unclassified
+C0345140	Totally absent pericardium	HP:0011629	Congenital absence of the pericardium	HPO	unclassified
+C4703395	Abnormal left atrium morphology	HP:0025579	Abnormal left atrium morphology	HPO	unclassified
+C0345093	Interrupted aortic arch between left subclavian and left common carotid artery	253682003	Interrupted aortic arch between left subclavian and left common carotid artery	SNOMEDCT_US	interrupted_aortic_arch
+C0345093	Interrupted aortic arch between left subclavian and left common carotid artery	HP:0011613	Interrupted aortic arch type B	HPO	interrupted_aortic_arch
+C4023301	Double inlet to single ventricle of indeterminate morphology	HP:0011557	Double inlet to single ventricle of indeterminate morphology	HPO	single_ventricle_pathology
+C1970501	Hypoplastic pulmonary veins	HP:0005304	Hypoplastic pulmonary veins	HPO	unclassified
+C4023291	Intermediate atrioventricular canal defect	HP:0011576	Intermediate atrioventricular canal defect	HPO	common_av_junction
+C4020964	Fibrous cardiac diverticulum	HP:0100572	Fibrous cardiac diverticulum	HPO	unclassified
+C4531285	Apical hypertrabeculation of the left ventricle	HP:0031195	Apical hypertrabeculation of the left ventricle	HPO	unclassified
+C4531035	Abnormal pulmonary valve cusp morphology	HP:0031566	Abnormal pulmonary valve cusp morphology	HPO	unclassified
+C4025756	Abnormal aortic morphology	HP:0001679	Abnormal aortic morphology	HPO	unclassified
+C0018817	Atrial Septal Defects	Q21.1	Atrial septal defect	ICD10	asd_base
+C0018817	Atrial Septal Defects	HP:0001631	Atrial septal defect	HPO	asd_base
+C0018817	Atrial Septal Defects	70142008	Atrial septal defect	SNOMEDCT_US	asd_base
+C0018817	Atrial Septal Defects	253366007	Interauricular septal defect	SNOMEDCT_US	asd_base
+C0018817	Atrial Septal Defects	405752007	Congenital atrial septal defect	SNOMEDCT_US	asd_base
+C4021135	Type IV truncus arteriosus	HP:0011610	Type IV truncus arteriosus	HPO	truncus_arteriosus
+C4023290	Partial defect of atrioventricular canal	718216009	Partial defect of atrioventricular canal	SNOMEDCT_US	common_av_junction
+C4023290	Partial defect of atrioventricular canal	HP:0011577	Partial atrioventricular canal defect	HPO	common_av_junction
+C4476810	Coated aorta	HP:0025494	Coated aorta	HPO	unclassified
+C1855901	Congenital hypertrophy of left ventricle	HP:0005129	Congenital hypertrophy of left ventricle	HPO	unclassified
+C4531033	Thickened aortic valve cusp	HP:0031568	Thickened aortic valve cusp	HPO	unclassified
+C3151525	Hypoplastic heart	HP:0001961	Hypoplastic heart	HPO	unclassified
+C4531117	Abnormal tricuspid valve annulus morphology	HP:0031441	Abnormal tricuspid valve annulus morphology	HPO	unclassified
+C4732781	Subaortic ventricular septal bulge	HP:0031971	Subaortic ventricular septal bulge	HPO	unclassified
+C4023248	Patent ductus arteriosus after premature birth	HP:0011649	Patent ductus arteriosus after premature birth	HPO	isolated_pda
+C1298817	Non-restrictive ventricular septal defect	HP:0011684	Non-restrictive ventricular septal defect	HPO	vsd_base
+C1298817	Non-restrictive ventricular septal defect	373131000	Non-restrictive ventricular septal defect	SNOMEDCT_US	vsd_base
+C0344644	Double outlet right ventricle with doubly committed ventricular septal defect	253300003	Double outlet right ventricle with doubly committed ventricular septal defect	SNOMEDCT_US	unclassified
+C0344644	Double outlet right ventricle with doubly committed ventricular septal defect	HP:0011652	Double outlet right ventricle, doubly committed ventricular septal defect	HPO	unclassified
+C4023247	Double outlet right ventricle with doubly committed ventricular septal defect without pulmonary stenosis	HP:0011652	Double outlet right ventricle with doubly committed ventricular septal defect without pulmonary stenosis	HPO	dorv
+C3178807	Left Atrial Isomerism	HP:0011537	Left atrial isomerism	HPO	isomerism
+C3887554	Muscular subvalvular aortic stenosis	HP:0001691	Muscular subvalvular aortic stenosis	HPO	unclassified
+C0344924	Restrictive ventricular septal defect	HP:0011683	Restrictive ventricular septal defect	HPO	vsd_base
+C0344924	Restrictive ventricular septal defect	253551005	Restrictive ventricular septal defect	SNOMEDCT_US	vsd_base
+C2677768	Left superior vena cava draining to coronary sinus	HP:0011670	Left superior vena cava draining to coronary sinus	HPO	lsvc
+C4023265	Gerbode ventricular septal defect	HP:0011621	Gerbode ventricular septal defect	HPO	vsd_base
+C0265812	Left ventricular-right atrial communication	41893002	Left ventricular-right atrial communication	SNOMEDCT_US	unclassified
+C0265812	Left ventricular-right atrial communication	HP:0011621	Left ventricular - right atrial communication	HPO	unclassified
+C0018818	Ventricular Septal Defects	Q21.0	Ventricular septal defect	ICD10	vsd_base
+C0018818	Ventricular Septal Defects	HP:0001629	Ventricular septal defect	HPO	vsd_base
+C0018818	Ventricular Septal Defects	30288003	Ventricular septal defect	SNOMEDCT_US	vsd_base
+C0018818	Ventricular Septal Defects	253549006	Ventricular septal abnormality	SNOMEDCT_US	vsd_base
+C0018818	Ventricular Septal Defects	768552007	Congenital ventricular septal defect	SNOMEDCT_US	vsd_base
+C4023249	Patent ductus arteriosus after birth at term	HP:0011648	Patent ductus arteriosus after birth at term	HPO	isolated_pda
+C1956410	Double Outlet Right Ventricle, Noncommitted VSD	253299006	Double outlet right ventricle with noncommitted ventricular septal defect	SNOMEDCT_US	unclassified
+C1956410	Double Outlet Right Ventricle, Noncommitted VSD	HP:0011654	Double outlet right ventricle, noncommitted ventricular septal defect	HPO	unclassified
+C4023245	Double outlet right ventricle with non-committed ventricular septal defect without pulmonary stenosis	HP:0011654	Double outlet right ventricle with non-committed ventricular septal defect without pulmonary stenosis	HPO	dorv
+C4551626	Unroofed coronary sinus	HP:0031297	Unroofed coronary sinus	HPO	asd_base
+C4551626	Unroofed coronary sinus	40272001	Unroofed coronary sinus	SNOMEDCT_US	asd_base
+C0344697	Divided right atrium	274947007	Divided right atrium	SNOMEDCT_US	unclassified
+C0344697	Divided right atrium	HP:0011566	Cor triatriatum dexter	HPO	unclassified
+C0013580	Ectopia Cordis	HP:0001683	Ectopia cordis	HPO	unclassified
+C0013580	Ectopia Cordis	78250005	Ectopia cordis	SNOMEDCT_US	unclassified
+C0265865	Mesocardia	HP:0011599	Mesocardia	HPO	unclassified
+C0265865	Mesocardia	16567006	Mesocardia	SNOMEDCT_US	unclassified
+C0392482	Common atrium	HP:0011565	Common atrium	HPO	unclassified
+C0392482	Common atrium	253276007	Common atrium	SNOMEDCT_US	unclassified
+C1856140	Pericardial lymphangiectasia	HP:0005183	Pericardial lymphangiectasia	HPO	unclassified
+C4023289	Transitional atrioventricular canal defect	HP:0011578	Transitional atrioventricular canal defect	HPO	common_av_junction
+C4024999	Early progressive calcific cardiac valvular disease	HP:0006694	Early progressive calcific cardiac valvular disease	HPO	unclassified
+C4073289	Abnormal morphology of myocardial trabeculae	HP:0030681	Abnormal morphology of myocardial trabeculae	HPO	unclassified
+C3532020	Anomalous common origin of brachiocephalic artery and left common carotid artery	460890003	Anomalous common origin of brachiocephalic artery and left common carotid artery	SNOMEDCT_US	unclassified
+C3532020	Anomalous common origin of brachiocephalic artery and left common carotid artery	HP:0011589	Bovine arch	HPO	unclassified
+C4021141	Common origin of the right brachiocephalic artery and left common carotid artery	HP:0011589	Common origin of the right brachiocephalic artery and left common carotid artery	HPO	unclassified
+C4020746	Ovine arch	HP:0011589	Ovine arch	HPO	unclassified
+C4023309	Criss-cross atrioventricular valves with superior-inferior ventricles	HP:0011542	Criss-cross atrioventricular valves with superior-inferior ventricles	HPO	unclassified
+C4023262	Aortico-Ventricular Tunnel	HP:0011627	Aorto-ventricular tunnel	HPO	unclassified
+C4531115	Abnormal tricuspid valve leaflet morphology	HP:0031443	Abnormal tricuspid valve leaflet morphology	HPO	unclassified
+C5421670	Misalignment of the pulmonary veins	HP:0033186	Misalignment of the pulmonary veins	HPO	unclassified
+C4023293	Imperforate atrioventricular valve	HP:0011574	Imperforate atrioventricular valve	HPO	unclassified
+C0344624	Absent right sided atrioventricular connection	HP:0011548	Absent right sided atrioventricular connection	HPO	unclassified
+C0344624	Absent right sided atrioventricular connection	253285007	Absent right sided atrioventricular connection	SNOMEDCT_US	unclassified
+C4021131	Supracardiac total anomalous pulmonary venous connection	HP:0011719	Supracardiac total anomalous pulmonary venous connection	HPO	tapvr
+C4025754	Abnormal pericardium morphology	HP:0001697	Abnormal pericardium morphology	HPO	unclassified
+C0344925	Perimembranous ventricular septal defect	HP:0011682	Perimembranous ventricular septal defect	HPO	vsd_base
+C0344925	Perimembranous ventricular septal defect	109428005	Perimembranous ventricular septal defect	SNOMEDCT_US	vsd_base
+C0345094	Interrupted aortic arch between left common carotid and brachiocephalic artery	253683008	Interrupted aortic arch between left common carotid and brachiocephalic artery	SNOMEDCT_US	interrupted_aortic_arch
+C0345094	Interrupted aortic arch between left common carotid and brachiocephalic artery	HP:0011614	Interrupted aortic arch type C	HPO	interrupted_aortic_arch
+C4023298	Overriding atrioventricular valve	HP:0011561	Overriding atrioventricular valve	HPO	unclassified
+C0238397	Pulmonary artery stenosis	HP:0004415	Pulmonary artery stenosis	HPO	unclassified
+C0238397	Pulmonary artery stenosis	95441000	Pulmonary artery stenosis	SNOMEDCT_US	unclassified
+C0016522	Foramen Ovale, Patent	HP:0001655	Patent foramen ovale	HPO	asd_base
+C0016522	Foramen Ovale, Patent	204317008	Patent foramen ovale	SNOMEDCT_US	asd_base
+C4022397	Congenital malformation of the left heart	HP:0045017	Congenital malformation of the left heart	HPO	unclassified
+C4476881	Abnormal pulmonary artery morphology	HP:0030966	Abnormal pulmonary artery morphology	HPO	unclassified
+C4255215	Dysplastic tricuspid valve	HP:0030732	Dysplastic tricuspid valve	HPO	unclassified
+C4255215	Dysplastic tricuspid valve	762254000	Congenital dysplasia of tricuspid valve	SNOMEDCT_US	unclassified
+C4023244	Double outlet right ventricle with subaortic ventricular septal defect and pulmonary stenosis	HP:0011655	Double outlet right ventricle with subaortic ventricular septal defect and pulmonary stenosis	HPO	dorv
+C4531095	Abnormal mitral valve leaflet morphology	HP:0031480	Abnormal mitral valve leaflet morphology	HPO	unclassified
+C2959688	Abnormal atrial arrangement	HP:0011535	Abnormal atrial arrangement	HPO	unclassified
+C2959688	Abnormal atrial arrangement	445898001	Abnormal atrial arrangement	SNOMEDCT_US	unclassified
+C0265831	Congenital absence of pulmonic valve	6996004	Congenital absence of pulmonic valve	SNOMEDCT_US	unclassified
+C0265831	Congenital absence of pulmonic valve	HP:0005134	Absent pulmonary valve	HPO	unclassified
+C4531205	Abnormal ventricular myocardium morphology	HP:0031316	Abnormal ventricular myocardium morphology	HPO	unclassified
+C4476934	Coarctation in the transverse aortic arch	HP:0031053	Coarctation in the transverse aortic arch	HPO	unclassified
+C4025001	Short chordae tendineae of the tricuspid valve	HP:0006692	Short chordae tendineae of the tricuspid valve	HPO	unclassified
+C0158618	Congenital stenosis of mitral valve	82458004	Congenital stenosis of mitral valve	SNOMEDCT_US	valvar_stenosis
+C0158618	Congenital stenosis of mitral valve	Q23.2	Congenital mitral stenosis	ICD10	valvar_stenosis
+C0158618	Congenital stenosis of mitral valve	HP:0011570	Congenital mitral stenosis	HPO	valvar_stenosis
+C0265856	Hypoplasia of right heart	39589002	Hypoplasia of right heart	SNOMEDCT_US	unclassified
+C0265856	Hypoplasia of right heart	HP:0010954	Underdeveloped right heart	HPO	unclassified
+C0344963	Right hypoplastic heart syndrome	268180007	Right hypoplastic heart syndrome	SNOMEDCT_US	unclassified
+C0344963	Right hypoplastic heart syndrome	Q22.6	Hypoplastic right heart syndrome	ICD10	unclassified
+C0344963	Right hypoplastic heart syndrome	HP:0010954	Hypoplastic right heart syndrome	HPO	unclassified
+C4021264	Abnormal ventricular septum morphology	HP:0010438	Abnormal ventricular septum morphology	HPO	unclassified
+C4703396	Abnormal right atrium morphology	HP:0025580	Abnormal right atrium morphology	HPO	unclassified
+C4023295	Cleft anterior mitral valve leaflet	HP:0011569	Cleft anterior mitral valve leaflet	HPO	unclassified
+C4531288	Abnormal morphology of left ventricular trabeculae	HP:0031192	Abnormal morphology of left ventricular trabeculae	HPO	unclassified
+C4023254	Partial diaphragmatic absence of pericardium	HP:0011635	Partial diaphragmatic absence of pericardium	HPO	unclassified
+C4021662	Abnormal endocardium morphology	HP:0004306	Abnormal endocardium morphology	HPO	unclassified
+C0221214	Vascular ring	HP:0010775	Vascular ring	HPO	vascular_ring
+C0221214	Vascular ring	110409004	Vascular ring	SNOMEDCT_US	vascular_ring
+C0221214	Vascular ring	66403007	Vascular ring	SNOMEDCT_US	vascular_ring
+C5399852	Inlet ventricular septal defect	HP:0011622	Inlet ventricular septal defect	HPO	vsd_base
+C1856123	Pulmonary artery sling	HP:0004961	Pulmonary artery sling	HPO	unclassified
+C4023305	Univentricular heart with absent left sided atrioventricular connection	HP:0011549	Univentricular heart with absent left sided atrioventricular connection	HPO	unclassified
+C0265882	Congenital hypoplasia of ascending aorta	12075007	Congenital hypoplasia of ascending aorta	SNOMEDCT_US	unclassified
+C0265882	Congenital hypoplasia of ascending aorta	HP:0031935	Ascending aorta hypoplasia	HPO	unclassified
+C4021134	Anomalous origin of one pulmonary artery from ascending aorta	HP:0011660	Anomalous origin of one pulmonary artery from ascending aorta	HPO	unclassified
+C0344730	Atrial Septal Defect Sinus Venosus	HP:0011567	Sinus venosus atrial septal defect	HPO	sinus_venosus_asd
+C0344730	Atrial Septal Defect Sinus Venosus	95268002	Sinus venosus atrial septal defect	SNOMEDCT_US	sinus_venosus_asd
+C4023237	Interrupted inferior vena cava with azygous continuation	HP:0011671	Interrupted inferior vena cava with azygous continuation	HPO	unclassified
+C4023278	Left aortic arch with retroesophageal right subclavian artery	HP:0011595	Left aortic arch with retroesophageal right subclavian artery	HPO	unclassified
+C4703394	Abnormal inferior vena cava morphology	HP:0025576	Abnormal inferior vena cava morphology	HPO	unclassified
+C4531116	Abnormal tricuspid chordae tendinae morphology	HP:0031442	Abnormal tricuspid chordae tendinae morphology	HPO	unclassified
+C4023280	Left aortic arch with isolated subclavian artery	HP:0011592	Left aortic arch with isolated subclavian artery	HPO	unclassified
+C4023304	Biventricular heart with straddling right sided atrioventricular valve and absent left sided atrioventricular connection	HP:0011550	Biventricular heart with straddling right sided atrioventricular valve and absent left sided atrioventricular connection	HPO	unclassified
+C0040761	Transposition of Great Vessels	HP:0001669	Transposition of great vessels	HPO	transposition_of_the_great_arteries
+C0040761	Transposition of Great Vessels	26146002	Complete transposition of great vessels	SNOMEDCT_US	transposition_of_the_great_arteries
+C4021129	Infracardiac total anomalous pulmonary venous connection	HP:0011721	Infracardiac total anomalous pulmonary venous connection	HPO	tapvr
+C4022021	Muscular cardiac diverticulum	HP:0100573	Muscular cardiac diverticulum	HPO	unclassified
+C0345037	Anomalous origin of right pulmonary artery from ascending aorta	HP:0005143	Anomalous origin of right pulmonary artery from ascending aorta	HPO	unclassified
+C0345037	Anomalous origin of right pulmonary artery from ascending aorta	253634009	Anomalous origin of right pulmonary artery from ascending aorta	SNOMEDCT_US	unclassified
+C4023287	Abdominal ectopia cordis	HP:0011582	Abdominal ectopia cordis	HPO	unclassified
+C4476845	Congenital ductus arteriosus aneurysm	HP:0030745	Congenital ductus arteriosus aneurysm	HPO	unclassified
+C0398357	Ductus arteriosus aneurysm	HP:0030745	Ductus arteriosus aneurysm	HPO	unclassified
+C0398357	Ductus arteriosus aneurysm	233990006	Ductus arteriosus aneurysm	SNOMEDCT_US	unclassified
+C4023283	Thoracoabdominal ectopia cordis	HP:0011586	Thoracoabdominal ectopia cordis	HPO	unclassified
+C0232301	Ventricular inversion	HP:0011540	Ventricular inversion	HPO	unclassified
+C0344616	Congenitally Corrected Transposition of the Great Arteries	83799000	Congenitally corrected transposition of great arteries	SNOMEDCT_US	unclassified
+C0344616	Congenitally Corrected Transposition of the Great Arteries	HP:0011540	Congenitally corrected transposition of the great arteries	HPO	unclassified
+C3165130	Subarterial ventricular septal defect	448876006	Subarterial ventricular septal defect	SNOMEDCT_US	vsd_base
+C3165130	Subarterial ventricular septal defect	HP:0011681	Subarterial ventricular septal defect	HPO	vsd_base
+C0009995	Cor Triatriatum	Q24.2	Cor triatriatum	ICD10	unclassified
+C0009995	Cor Triatriatum	HP:0010774	Cor triatriatum	HPO	unclassified
+C0009995	Cor Triatriatum	55510008	Cor triatriatum	SNOMEDCT_US	unclassified
+C4023256	Complete left sided absence of pericardium	HP:0011633	Complete left sided absence of pericardium	HPO	unclassified
+C0344987	Bicuspid pulmonary valve	HP:0005182	Bicuspid pulmonary valve	HPO	unclassified
+C0344987	Bicuspid pulmonary valve	253599005	Bicuspid pulmonary valve	SNOMEDCT_US	unclassified
+C0034089	Pulmonary Valve Stenosis	I37.0	Pulmonary valve stenosis	ICD10	valvar_stenosis
+C0034089	Pulmonary Valve Stenosis	HP:0001642	Pulmonary valve stenosis	HPO	valvar_stenosis
+C0034089	Pulmonary Valve Stenosis	56786000	Pulmonary valve stenosis	SNOMEDCT_US	valvar_stenosis
+C3164332	Absent aortic valve cusp	448634001	Absent aortic valve cusp	SNOMEDCT_US	unclassified
+C3164332	Absent aortic valve cusp	HP:0031569	Absent aortic valve cusps	HPO	unclassified
+C4023282	Abnormal branching pattern of the aortic arch	HP:0011587	Abnormal branching pattern of the aortic arch	HPO	unclassified
+C3165091	Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis	HP:0011651	Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis	HPO	dorv
+C3165091	Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis	448516008	Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis	SNOMEDCT_US	dorv
+C3163801	Abnormality of aortic arch	448742006	Abnormality of aortic arch	SNOMEDCT_US	unclassified
+C3163801	Abnormality of aortic arch	HP:0012303	Abnormality of the aortic arch	HPO	unclassified
+C4023308	Superior-inferior ventricles without criss-cross atrioventricular valves	HP:0011543	Superior-inferior ventricles without criss-cross atrioventricular valves	HPO	unclassified
+C0344882	Tetralogy of Fallot with pulmonary atresia	HP:0012516	Tetralogy of Fallot with pulmonary atresia	HPO	tetralogy_of_fallot
+C0344882	Tetralogy of Fallot with pulmonary atresia	253513005	Tetralogy of Fallot with pulmonary atresia	SNOMEDCT_US	tetralogy_of_fallot
+C4025759	Abnormal mitral valve morphology	HP:0001633	Abnormal mitral valve morphology	HPO	unclassified
+C0340375	Subaortic stenosis	HP:0001682	Subaortic stenosis	HPO	unclassified
+C0340375	Subaortic stenosis	204368006	Subaortic stenosis	SNOMEDCT_US	unclassified
+C4023307	L-looping of the right ventricle	HP:0011544	L-looping of the right ventricle	HPO	unclassified
+C4023277	Left aortic arch with right descending aorta and right ductus arteriosus	HP:0011596	Left aortic arch with right descending aorta and right ductus arteriosus	HPO	unclassified
+C0265883	Double Aortic Arch	HP:0011590	Double aortic arch	HPO	unclassified
+C0265883	Double Aortic Arch	10451007	Double aortic arch	SNOMEDCT_US	unclassified
+C5676813	Aortic isthmus hypoplasia	HP:0034227	Aortic isthmus hypoplasia	HPO	unclassified
+C1336532	Occlusion of superior vena cava	470759007	Occlusion of superior vena cava	SNOMEDCT_US	unclassified
+C1336532	Occlusion of superior vena cava	766949003	Obstruction of superior vena cava	SNOMEDCT_US	unclassified
+C1336532	Occlusion of superior vena cava	HP:0031041	Superior vena cava obstruction	HPO	unclassified
+C0038833	Superior Vena Cava Syndrome	HP:0031041	Superior vena cava syndrome	HPO	unclassified
+C0038833	Superior Vena Cava Syndrome	63363004	Superior vena cava syndrome	SNOMEDCT_US	unclassified
+C4023246	Double outlet right ventricle with non-committed ventricular septal defect and pulmonary stenosis	HP:0011653	Double outlet right ventricle with non-committed ventricular septal defect and pulmonary stenosis	HPO	dorv
+C0003499	Supravalvular aortic stenosis	HP:0004381	Supravalvular aortic stenosis	HPO	unclassified
+C0003499	Supravalvular aortic stenosis	268185002	Supravalvar aortic stenosis	SNOMEDCT_US	unclassified
+C4023233	Single ventricle of indeterminate morphology	HP:0011680	Single ventricle of indeterminate morphology	HPO	single_ventricle_pathology
+C4025263	Coarctation of abdominal aorta	HP:0004974	Coarctation of abdominal aorta	HPO	unclassified
+C0265879	Postductal coarctation of aorta	72242008	Postductal coarctation of aorta	SNOMEDCT_US	unclassified
+C0265879	Postductal coarctation of aorta	HP:0011647	Postductal coarctation of the aorta	HPO	unclassified
+C4082954	Hypoplasia of right ventricle	HP:0004762	Hypoplasia of right ventricle	HPO	hypoplastic_rv
+C0344770	Double orifice of mitral valve	253402005	Double orifice of mitral valve	SNOMEDCT_US	unclassified
+C0344770	Double orifice of mitral valve	HP:0011568	Double orifice mitral valve	HPO	unclassified
+C2959359	Abnormal ventriculoarterial connection	HP:0011563	Abnormal ventriculoarterial connection	HPO	unclassified
+C2959359	Abnormal ventriculoarterial connection	253295000	Abnormal ventriculoarterial connection	SNOMEDCT_US	unclassified
+C4476977	Purely Bicuspid Aortic Valve	HP:0031117	Purely bicuspid aortic valve	HPO	unclassified
+C0685707	Muscular ventricular septum defect	94706008	Muscular ventricular septum defect	SNOMEDCT_US	vsd_base
+C0685707	Muscular ventricular septum defect	HP:0011623	Muscular ventricular septal defect	HPO	vsd_base
+C4025758	Abnormal myocardium morphology	HP:0001637	Abnormal myocardium morphology	HPO	unclassified
+C4476785	Apically displaced anterolateral papillary muscle	HP:0025449	Apically displaced anterolateral papillary muscle	HPO	unclassified
+C4025003	Aortic tortuosity	HP:0006687	Aortic tortuosity	HPO	unclassified
+C4023259	Complete diaphragmatic absence of pericardium	HP:0011630	Complete diaphragmatic absence of pericardium	HPO	unclassified
+C0345040	Anomalous origin of left pulmonary artery from ascending aorta	HP:0011661	Anomalous origin of left pulmonary artery from ascending aorta	HPO	unclassified
+C0345040	Anomalous origin of left pulmonary artery from ascending aorta	253637002	Anomalous origin of left pulmonary artery from ascending aorta	SNOMEDCT_US	unclassified
+C4023258	Complete right sided absence of pericardium	HP:0011631	Complete right sided absence of pericardium	HPO	unclassified
+C0546965	Parachute malformation of mitral valve	204362007	Parachute malformation of mitral valve	SNOMEDCT_US	unclassified
+C0546965	Parachute malformation of mitral valve	HP:0011571	Parachute mitral valve	HPO	unclassified
+C4023276	Right aortic arch with left descending aorta and left ductus arteriosus	HP:0011597	Right aortic arch with left descending aorta and left ductus arteriosus	HPO	unclassified
+C0265870	Congenital absence of coronary sinus	40272001	Congenital absence of coronary sinus	SNOMEDCT_US	unclassified
+C0265870	Congenital absence of coronary sinus	HP:0031783	Absent coronary sinus	HPO	unclassified
+C0344905	Left ventricular abnormality	HP:0001711	Left ventricular abnormality	HPO	unclassified
+C0344905	Left ventricular abnormality	253535002	Left ventricular abnormality	SNOMEDCT_US	unclassified
+C0344905	Left ventricular abnormality	871660009	Congenital anomaly of left ventricle (disorder)	SNOMEDCT_US	unclassified
+C4476783	Displacement of the papillary muscles	HP:0025447	Displacement of the papillary muscles	HPO	unclassified
+C4021140	Right aortic arch with retroesophageal left subclavian artery	HP:0011598	Right aortic arch with retroesophageal left subclavian artery	HPO	unclassified
+C0041206	Truncus Arteriosus	HP:0001660	Truncus arteriosus	HPO	truncus_arteriosus
+C0041206	Truncus Arteriosus	58140002	Truncus arteriosus of fetus	SNOMEDCT_US	truncus_arteriosus
+C4020867	Persistant truncus arteriosus	HP:0001660	Persistant truncus arteriosus	HPO	unclassified
+C4476978	Single Raphe Bicuspid Aortic Valve	HP:0031118	Single raphe bicuspid aortic valve	HPO	unclassified
+C4021142	Supramitral ring	HP:0011572	Supramitral ring	HPO	unclassified
+C4476878	Abnormal morphology of the great vessels	HP:0030962	Abnormal morphology of the great vessels	HPO	unclassified
+C3164445	Abnormality of aortic valve	448743001	Abnormality of aortic valve	SNOMEDCT_US	unclassified
+C3164445	Abnormality of aortic valve	HP:0001646	Abnormality of the aortic valve	HPO	unclassified
+C0344621	Double inlet right ventricle	HP:0011556	Double inlet right ventricle	HPO	single_ventricle_pathology
+C0344621	Double inlet right ventricle	253282005	Double inlet right ventricle	SNOMEDCT_US	single_ventricle_pathology
+C4703393	Abnormal superior vena cava morphology	HP:0025575	Abnormal superior vena cava morphology	HPO	unclassified
+C4703575	Left Isomerism	HP:0031854	Left Isomerism	HPO	isomerism
+C0003507	Aortic Valve Stenosis	HP:0001650	Aortic valve stenosis	HPO	valvar_stenosis
+C0003507	Aortic Valve Stenosis	60573004	Aortic valve stenosis	SNOMEDCT_US	valvar_stenosis
+C0003507	Aortic Valve Stenosis	I35.0	Aortic (valve) stenosis	ICD10	valvar_stenosis
+C0003507	Aortic Valve Stenosis	Q25.3	Stenosis of aorta	ICD10	valvar_stenosis
+C0243002	Tricuspid Atresia	HP:0011662	Tricuspid atresia	HPO	unclassified
+C0243002	Tricuspid Atresia	63042009	Tricuspid atresia	SNOMEDCT_US	unclassified
+C0243002	Tricuspid Atresia	253455004	Right atrioventricular valve atresia	SNOMEDCT_US	unclassified
+C0040963	Tricuspid Valve Stenosis	49915006	Tricuspid valve stenosis	SNOMEDCT_US	valvar_stenosis
+C0040963	Tricuspid Valve Stenosis	I07.0	Tricuspid stenosis	ICD10	valvar_stenosis
+C0040963	Tricuspid Valve Stenosis	HP:0010446	Tricuspid stenosis	HPO	valvar_stenosis
+C4023312	Atrial situs inversus	HP:0011538	Atrial situs inversus	HPO	unclassified
+C4023312	Atrial situs inversus	871616009	Atrial situs inversus	SNOMEDCT_US	unclassified
+C1866206	Dysplastic pulmonary valve	HP:0005164	Dysplastic pulmonary valve	HPO	unclassified
+C4025246	Abnormal cardiac atrium morphology	HP:0005120	Abnormal cardiac atrium morphology	HPO	unclassified
+C0546315	Congenital cardiac diverticulum	718181001	Congenital cardiac diverticulum	SNOMEDCT_US	unclassified
+C0546315	Congenital cardiac diverticulum	HP:0100571	Ventricular diverticulum	HPO	unclassified
+C0018798	Congenital Heart Defects	HP:0001627	Congenital heart defect	HPO	unclassified
+C0018798	Congenital Heart Defects	13213009	Congenital anomaly of heart	SNOMEDCT_US	unclassified
+C0018798	Congenital Heart Defects	Q24.9	Congenital malformation of heart, unspecified	ICD10	unclassified
+C0037221	Situs Inversus	Q89.3	Situs inversus	ICD10	unclassified
+C0037221	Situs Inversus	HP:0001696	Situs inversus	HPO	unclassified
+C0037221	Situs Inversus	43876007	Situs inversus	SNOMEDCT_US	unclassified
+C0037221	Situs Inversus	27317008	Situs inversus	SNOMEDCT_US	unclassified
+C0037221	Situs Inversus	HP:0003363	Situs inversus viscerum	HPO	unclassified
+C4551493	Situs inversus totalis	HP:0001696	Situs inversus totalis	HPO	unclassified
+C0241654	Abnormal heart valve morphology	HP:0001654	Abnormal heart valve morphology	HPO	unclassified
+C0018824	Heart valve disease	368009	Heart valve disease	SNOMEDCT_US	unclassified
+C0018824	Heart valve disease	HP:0001654	Valvular heart disease	HPO	unclassified
